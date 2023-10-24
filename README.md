@@ -1,6 +1,6 @@
 # Dashboard do FIFA 23
 
-Acesse aqui: [Streamlit](https://lelis-fifa23-dashboard.streamlit.app/)
+Acesse [aqui](https://lelis-fifa23-dashboard.streamlit.app/).
 
 Dashboard com análise e amostra de dados do FIFA 17 ao FIFA 23.
 
